@@ -1,0 +1,1 @@
+In this project you have to implement the DES (Data Encryption Standard) cryptography system. DES is the symmetric key block cipher algorithm designed by IBM in 1977. You are required to implement the encryption and decryption functions, including the DES round function, key schedule, cipher-block-chaining, permutation, etc.
